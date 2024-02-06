@@ -48,7 +48,7 @@ For the Graphical chart i used  2 fonts Halloween and Cosplay , for the color pa
 ### 1-Home page
 For the user interface, I designed a welcoming home page that serves as the gateway to our vibrant community. On this page, users are greeted with an inviting layout that encourages exploration and engagement.
 
-![enter image description here](homepage.png)
+![enter image description here](home.png)
 ### 2-Sign up page
 For the sign up page user have to fill form with:
 `'Pseudo'` : unique nickname for the account  VARCHAR
@@ -56,12 +56,15 @@ For the sign up page user have to fill form with:
 `'password'` : Password will be hashed  VARCHAR
 `'Birthdate'` : User birthday DD-MM-YY DATE
 `'roles'` :  2 Types admin and user  JSON
-![enter image description here](signin.png)
+![enter image description here](signup.png)
 
 once the user sign up a verfication email will send  to its email and once he clicked the account `activated` 
 
+![enter image description here](val1.png)
+![enter image description here](val2.png)
 
 ### 2-Sign in page 
+![enter image description here](signin.png)
 
 Upon selecting a topic to discuss, users are prompted to sign in to their account to participate in the conversation. The sign-in page features a clean and intuitive interface, allowing users to easily input their credentials and access their account
 
